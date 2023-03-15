@@ -10,3 +10,4 @@ cociente += 1
 
 print (f"cociente: {cociente}")
 print (f"residuo: {dividendo}")
+print()
