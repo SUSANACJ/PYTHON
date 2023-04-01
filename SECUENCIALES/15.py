@@ -4,8 +4,8 @@ os.system("cls")
 juan=int(input("ingresa aporte de juan: "))
 rosa=int(input("ingresa aporte de raquel: "))
 daniel=int(input("ingresa aporte de daniel: "))
-dolares = daniel / 3.00
 
+dolares = daniel / 3.00
 total=juan + rosa + dolares
 porcentajerosa = (rosa / total) * 100
 porcentajedaniel = (dolares / total) * 100
